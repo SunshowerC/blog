@@ -1,8 +1,9 @@
 # 个人博客
-如对你有帮助是我的荣幸，你的 star 是对我最大的支持！
+**如对你有帮助是我的荣幸，你的 star 是对我最大的支持！**
 
 
 ## 个人文章
+- [你可能还没试过的 react modern build 构建优化！](https://github.com/Weiyu-Chen/blog/issues/6)
 - [Show me the code，babel 7 最佳实践！](https://github.com/Weiyu-Chen/blog/issues/5)
 - [@babel/polyfill 与 @babel/plugin-transform-runtime 详解](https://github.com/Weiyu-Chen/blog/issues/4)
 - [node.js 爬取招聘信息分析各职业钱途（爬虫+动态IP代理+数据可视化分析）](https://github.com/Weiyu-Chen/blog/issues/3)
