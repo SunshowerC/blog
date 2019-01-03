@@ -16,6 +16,7 @@
 详细介绍了 script 标签中 defer, async，type=module/nomodule 在多种情况的**执行顺序，执行次数，跨域加载情况，同源/跨域 cookie 携带**情况，以及个别浏览器的存在的bug。
 - [深入理解学习Git工作流（git-workflow-tutorial）](https://github.com/xirong/my-git/blob/master/git-workflow-tutorial.md)   
 介绍了 git 的集中式工作流，功能分支工作流，Gitflow工作流，Forking工作流，并举例详细表明其工作流程，深入浅出。
-
+- [利用Gitlab和Jenkins做CI(持续集成)](https://cloud.tencent.com/developer/article/1326532)      
+详细地，一步一步教你如何用 gitlab + jenkins 持续集成
 
 
