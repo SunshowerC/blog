@@ -3,6 +3,7 @@
 
 
 ## 个人文章
+- [package.json 中 你可能还不清楚的 browser，module，main 字段优先级](https://github.com/Weiyu-Chen/blog/issues/8)
 - [typescript 中的 interface 和 type 到底有什么区别？](https://github.com/Weiyu-Chen/blog/issues/7)
 - [你可能还没试过的 react modern build 构建优化！](https://github.com/Weiyu-Chen/blog/issues/6)
 - [Show me the code，babel 7 最佳实践！](https://github.com/Weiyu-Chen/blog/issues/5)
