@@ -3,6 +3,7 @@
 
 
 ## 个人文章
+- [[译] Flutter: 图解 BoxDecoration ](https://github.com/Weiyu-Chen/blog/issues/12)
 - [[译] Flutter: 图解 Row 与 Column 部件](https://github.com/Weiyu-Chen/blog/issues/11)
 - [[译] Flutter: 图解 Container 组件](https://github.com/Weiyu-Chen/blog/issues/10)
 - [前端性能优化不完全指北](https://github.com/Weiyu-Chen/blog/issues/9)
