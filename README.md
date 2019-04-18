@@ -3,6 +3,7 @@
 
 
 ## 个人文章
+- [掌握甩锅技术: Typescript 运行时数据校验](https://github.com/Weiyu-Chen/blog/issues/13)
 - [[译] Flutter: 图解 BoxDecoration ](https://github.com/Weiyu-Chen/blog/issues/12)
 - [[译] Flutter: 图解 Row 与 Column 部件](https://github.com/Weiyu-Chen/blog/issues/11)
 - [[译] Flutter: 图解 Container 组件](https://github.com/Weiyu-Chen/blog/issues/10)
