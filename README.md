@@ -3,6 +3,7 @@
 
 
 ## 个人文章
+- [还可以这么玩？超实用 Typescript 内置类型与自定义类型](https://github.com/Weiyu-Chen/blog/issues/15)
 - [掌握甩锅技术: Typescript 运行时数据校验](https://github.com/Weiyu-Chen/blog/issues/13)
 - [[译] Flutter: 图解 BoxDecoration ](https://github.com/Weiyu-Chen/blog/issues/12)
 - [[译] Flutter: 图解 Row 与 Column 部件](https://github.com/Weiyu-Chen/blog/issues/11)
