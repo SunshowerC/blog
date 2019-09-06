@@ -3,6 +3,7 @@
 
 
 ## 个人文章
+- [并不震惊，也可以不看的 前端 Flutter 劝退指南](https://github.com/Weiyu-Chen/blog/issues/16)
 - [还可以这么玩？超实用 Typescript 内置类型与自定义类型](https://github.com/Weiyu-Chen/blog/issues/15)
 - [掌握甩锅技术: Typescript 运行时数据校验](https://github.com/Weiyu-Chen/blog/issues/13)
 - [[译] Flutter: 图解 BoxDecoration ](https://github.com/Weiyu-Chen/blog/issues/12)
