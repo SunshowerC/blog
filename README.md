@@ -1,4 +1,12 @@
 # 个人博客
+![[github](https://github.com/SunshowerC/blog)](https://img.shields.io/github/stars/sunshowerc/blog)
+![[issue](https://github.com/SunshowerC/blog/issues)](https://img.shields.io/github/issues/sunshowerc/blog?color=green&label=%E6%96%87%E7%AB%A0%E6%95%B0)
+![[github](https://github.com/SunshowerC/blog)](https://img.shields.io/github/forks/sunshowerc/blog)
+![[github](https://github.com/SunshowerC/blog)](https://img.shields.io/github/watchers/sunshowerc/blog)
+![[github](https://github.com/SunshowerC/blog)](https://img.shields.io/badge/If%20it%20helps-STAR%20it-red)
+
+
+
 **如对你有帮助是我的荣幸，你的 star 是对我最大的支持！**
 
 
